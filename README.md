@@ -1,5 +1,8 @@
 # ominum
 
+![image](https://github.com/user-attachments/assets/21061aa5-9fba-49a6-9ad8-80d0da0ee9cc)
+
+
 Table users {
   id UUID [pk, not null]
   username VARCHAR(255) [unique, not null]
